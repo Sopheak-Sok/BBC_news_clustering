@@ -13,7 +13,7 @@ themes and topics present in a collection of news articles.
 * Data preprocessing
 * tf-idf matrix, word2vec, doc2vec
 * PCA for dimensional reduction 
-* Model Training
+* K-Means Clustering, Hierachical Clustering
 * Clustering Models Evaluation
   
 # Result
